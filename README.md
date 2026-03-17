@@ -2,8 +2,6 @@
 
 Heats your computer up.
 
-![green on black terminal UI with CPU/GPU temperature readouts and a progress bar](screenshot.png)
-
 ---
 
 ## What it does
